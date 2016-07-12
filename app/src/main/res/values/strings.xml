@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Mocking Camera</string>
+    <string name="camera_permission">This app requires camera permission to work. Enable permission in app settings.</string>
+</resources>
