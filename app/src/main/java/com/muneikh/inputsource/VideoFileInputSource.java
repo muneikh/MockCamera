@@ -8,7 +8,7 @@ import android.media.MediaPlayer.OnCompletionListener;
 import android.util.Log;
 import android.view.Surface;
 
-import com.muneikh.Size;
+import com.muneikh.gles.Size;
 import com.muneikh.gles.FullFrameRect;
 import com.muneikh.gles.Texture2dProgram;
 

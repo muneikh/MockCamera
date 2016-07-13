@@ -10,7 +10,7 @@ import android.os.Looper;
 import android.os.Message;
 import android.util.Log;
 
-import com.muneikh.Size;
+import com.muneikh.gles.Size;
 import com.muneikh.gles.FullFrameRect;
 import com.muneikh.gles.Texture2dProgram;
 import com.muneikh.inputsource.exception.UnableToOpenCameraException;

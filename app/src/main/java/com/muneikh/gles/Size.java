@@ -1,4 +1,4 @@
-package com.muneikh;
+package com.muneikh.gles;
 
 public final class Size {
     public static final int FRAME_WIDTH = 1280;

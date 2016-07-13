@@ -2,7 +2,7 @@ package com.muneikh.inputsource;
 
 import android.graphics.SurfaceTexture;
 
-import com.muneikh.Size;
+import com.muneikh.gles.Size;
 
 public interface TextureVideoInputSource {
 

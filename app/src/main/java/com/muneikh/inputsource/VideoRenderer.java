@@ -5,7 +5,7 @@ import android.opengl.GLSurfaceView;
 import android.opengl.GLSurfaceView.Renderer;
 import android.util.Log;
 
-import com.muneikh.Size;
+import com.muneikh.gles.Size;
 import com.muneikh.ui.widget.GL2SurfaceView;
 
 import javax.microedition.khronos.egl.EGLConfig;
