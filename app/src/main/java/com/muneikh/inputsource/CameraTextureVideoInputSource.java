@@ -316,11 +316,6 @@ public class CameraTextureVideoInputSource implements TextureVideoInputSource {
         }
     }
 
-    @Override
-    public SurfaceTexture getSurfaceTexture() {
-        return surfaceTexture;
-    }
-
     public int getFrameRate() {
         return chooseFixedPreviewFps(cameraParameters, DESIRED_PREVIEW_FPS * 1000);
     }

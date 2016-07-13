@@ -115,11 +115,6 @@ public class VideoFileInputSource implements TextureVideoInputSource, MediaPlaye
         return INVALID;
     }
 
-    @Override
-    public SurfaceTexture getSurfaceTexture() {
-        return surfaceTexture;
-    }
-
     public void release() {
         this.ready = false;
         if (this.player != null) {

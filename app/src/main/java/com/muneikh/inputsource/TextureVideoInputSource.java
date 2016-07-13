@@ -35,6 +35,4 @@ public interface TextureVideoInputSource {
     void switchCamera();
 
     int getCameraFacing();
-
-    SurfaceTexture getSurfaceTexture();
 }
